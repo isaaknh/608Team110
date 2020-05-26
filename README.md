@@ -5,5 +5,7 @@ Brickbreaker style game where one player plays on an Arduino controlled system a
 
 Final project for my Embedded Systems class, done in a team of four.
 
+This repo contains all of the server-side code used for the project.
+
 **Final Project Video**
 https://www.youtube.com/embed/90136TmvQ7s
